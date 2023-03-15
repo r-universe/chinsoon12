@@ -1,10 +1,10 @@
 [
   {
-    "package": "PreKnitPostHTMLRender",
+    "package": "KnapsackSampling",
     "oncran": true
   },
   {
-    "package": "KnapsackSampling",
+    "package": "PreKnitPostHTMLRender",
     "oncran": true
   }
 ]
