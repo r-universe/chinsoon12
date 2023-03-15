@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "KnapsackSampling"]
-	path = KnapsackSampling
-	url = https://github.com/chinsoon12/knapsacksampling
-	shallow = true
-	registered = true
 [submodule "PreKnitPostHTMLRender"]
 	path = PreKnitPostHTMLRender
 	url = https://github.com/chinsoon12/preknitposthtmlrender
+	shallow = true
+	registered = true
+[submodule "KnapsackSampling"]
+	path = KnapsackSampling
+	url = https://github.com/chinsoon12/knapsacksampling
 	shallow = true
 	registered = true
